@@ -12,4 +12,8 @@
 
 ## For Windows Version visit:
   https://github.com/chavarera/WSPManager
-  WPS MANAGER WINDOWS[https://github.com/chavarera/WSPManager]
+  [WPS MANAGER WINDOWS](https://github.com/chavarera/WSPManager)
+  
+  
+## IDEA CREDITS: 
+    [Ravishankar Chavare](https://github.com/chavarera/)
