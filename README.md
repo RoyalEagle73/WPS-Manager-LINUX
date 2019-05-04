@@ -13,6 +13,9 @@
   3)Use the following command:
     `sudo python3 'WPSManager(LINUX).py'`
 
+## SCREENSHOTS
+  [Screenshots](https://github.com/RoyalEagle73/WPS-Manager-LINUX-/wiki/SCREESHOTS)
+
 ## For Windows Version visit:
   https://github.com/chavarera/WSPManager
   
